@@ -1,4 +1,4 @@
-# ReactJS Demo'
+# ReactJS Demo
 
 ### Required
 
@@ -17,5 +17,5 @@
   - jump to  root folder [reactjs-demo] and run: 
    1. `npm update`
    2. `npm start`
-    
+
   - Happy coding
