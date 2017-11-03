@@ -1,0 +1,32 @@
+{
+  "name": "reactjs-demo",
+  "version": "1.0.0",
+  "description": "The first project demo reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caodinhtuan/reactjs-demo.git"
+  },
+  "keywords": [
+    "reactjs",
+    "first",
+    "project",
+    "demo",
+    "app"
+  ],
+  "author": "cao dinh tuan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0",
+    "morgan": "^1.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/caodinhtuan/reactjs-demo/issues"
+  },
+  "homepage": "https://github.com/caodinhtuan/reactjs-demo#readme"
+}
