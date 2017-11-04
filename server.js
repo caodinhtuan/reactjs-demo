@@ -7,7 +7,6 @@ var db = require("./config.js");
   
 var app = express();  
 var port = process.env.port || 8080;
-console.log(port);
 var srcpath  =path.join(__dirname,'/public') ;  
 app.use(express.static('public'));  
 app.use(bodyParser.json({limit:'5mb'}));    
